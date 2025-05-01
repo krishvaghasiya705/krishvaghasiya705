@@ -1,12 +1,32 @@
-- 👋 Hi, I’m krish vghasiya
-- 👀 I’m interested in creating websites
-- 🌱 I’m currently learning GreenSock Animation Platform 
-- 💞️ I’m looking to collaborate on any projects who wants me.
-- 📫 How to reach me just mail me on this kvaghasiya705@gmail.com
-- 😄 Pronouns: krish
-- ⚡ Fun fact: i am a frontend developer and froented designer also i know photoshop,figma,after effect,blender,filmora
+👤 Name:
+Krish Vaghasiya
 
-<!---
-krishvaghasiya705/krishvaghasiya705 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+💼 Designation:
+Full Stack Developer & Web Designer
+(Also skilled in UI/UX, Creative Direction & Frontend Engineering)
+
+🚀 Current Project:
+Building a full-fledged eCommerce platform where:
+
+Users can buy/search for products
+
+Users can become sellers or store handlers
+
+Admins have structured roles and permissions
+
+Direct buyer-to-seller chat system
+
+Built with Vite.js + Tailwind CSS + JSX (React-style)
+
+Currently shifting away from backendless due to storage limits; exploring free or self-hosted backend alternatives
+
+📚 What You've Learned Recently:
+Managing global elements (like logos and titles) in Next.js
+
+Creating responsive designs using vw units + media queries
+
+Handling sidebar animations, route-based UI changes, and dynamic dropdowns in React
+
+Working with SVG animations, conditional rendering, and performance optimization using useMemo
+
+Building intuitive, minimal UI with custom sliders, menus, and component reusability
