@@ -2,8 +2,7 @@
 Krish Vaghasiya
 
 💼 Designation:
-Full Stack Developer & Web Designer
-(Also skilled in UI/UX, Creative Direction & Frontend Engineering)
+Web Designer
 
 🚀 Current Project:
 Building a full-fledged eCommerce platform where:
