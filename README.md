@@ -1,31 +1,17 @@
 👤 Name:
 Krish Vaghasiya
 
-💼 Designation:
-Web Designer
+🎨 Current Focus:
+Learning Embroidery Design (Beginner Level)
 
-🚀 Current Project:
-Building a full-fledged eCommerce platform where:
+🧵 What I’m Doing Now:
+Exploring embroidery designing from scratch —
+learning patterns, stitches, digitizing basics, and design workflows.
+Focused on skill-building, practice, and consistency.
 
-Users can buy/search for products
+🔄 Background:
+Previously worked in web design & frontend development.
+Now shifting fully towards creative textile & embroidery design.
 
-Users can become sellers or store handlers
-
-Admins have structured roles and permissions
-
-Direct buyer-to-seller chat system
-
-Built with Vite.js + Tailwind CSS + JSX (React-style)
-
-Currently shifting away from backendless due to storage limits; exploring free or self-hosted backend alternatives
-
-📚 What You've Learned Recently:
-Managing global elements (like logos and titles) in Next.js
-
-Creating responsive designs using vw units + media queries
-
-Handling sidebar animations, route-based UI changes, and dynamic dropdowns in React
-
-Working with SVG animations, conditional rendering, and performance optimization using useMemo
-
-Building intuitive, minimal UI with custom sliders, menus, and component reusability
+📌 Status:
+Learning • Practicing • Improving daily
