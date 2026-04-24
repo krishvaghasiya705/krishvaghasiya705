@@ -11,7 +11,7 @@ Focused on skill-building, practice, and consistency.
 
 🔄 Background:
 Previously worked in web design & frontend development.
-Now shifting fully towards creative textile & embroidery design.
+Now shifting fully towards creative textile & embroidery design. but in brain there is a space for web design 
 
 📌 Status:
 Learning • Practicing • Improving daily
