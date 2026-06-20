@@ -1,28 +1,77 @@
 <p align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=300&color=0:00C6FF,100:6A00FF&text=KRISH%20VAGHASIYA&fontSize=60&fontAlignY=40&animation=fadeIn&fontColor=ffffff"/>
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=350&color=0:00F5FF,50:0066FF,100:6A00FF&text=KRISH%20VAGHASIYA&fontSize=65&fontAlignY=40&animation=twinkling&fontColor=ffffff"/>
 </p>
 
-<h1 align="center">
-  👋 Hey, I'm Krish Vaghasiya
-</h1>
-
-<h3 align="center">
-  Frontend Developer • UI Designer • Creative Builder
-</h3>
+<h1 align="center">⚡ DIGITAL COMMAND CENTER ⚡</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=28&pause=1000&color=00E7FF&center=true&vCenter=true&width=900&lines=Frontend+Developer;UI%2FUX+Designer;Creative+Builder;WatchFam+Creator;React+%26+Next.js+Developer;Always+Building+Something+Cool" />
+  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=30&pause=1000&color=00E7FF&center=true&vCenter=true&width=1000&lines=Frontend+Developer;UI+Architect;Creative+Builder;WatchFam+Creator;React+Developer;Next.js+Developer;Open+Source+Enthusiast;Gamer+Mode+Activated" />
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=krishvaghasiya705&label=PROFILE+VIEWS&color=0E75B6&style=for-the-badge"/>
-  <img src="https://img.shields.io/github/followers/krishvaghasiya705?style=for-the-badge"/>
-  <img src="https://img.shields.io/github/stars/krishvaghasiya705?style=for-the-badge"/>
+  <img src="https://komarev.com/ghpvc/?username=krishvaghasiya705&label=PROFILE+VIEWS&color=blueviolet&style=for-the-badge" />
+  <img src="https://img.shields.io/github/followers/krishvaghasiya705?style=for-the-badge" />
+  <img src="https://img.shields.io/github/stars/krishvaghasiya705?style=for-the-badge" />
 </p>
 
 ---
 
-# 🚀 About Me
+# 🖥 SYSTEM STATUS
+
+```text
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+Frontend Development  ████████████████ 95%
+
+UI/UX Design          ███████████████░ 92%
+
+React / Next.js       ██████████████░░ 88%
+
+Creative Thinking     ████████████████ 100%
+
+Gaming                ████████████████ 100%
+
+Sleep                 ██░░░░░░░░░░░░░░ 15%
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+```
+
+---
+
+# 🎮 PLAYER PROFILE
+
+```yaml
+Player_Name: Krish Vaghasiya
+
+Class: Frontend Developer
+
+Level: 99
+
+Guild: Open Source
+
+Main Weapon:
+  - React
+  - Next.js
+  - JavaScript
+
+Secondary Weapon:
+  - Figma
+  - Tailwind CSS
+  - Photoshop
+
+Boss Fight:
+  - Bugs
+
+Current Mission:
+  - Building WatchFam
+
+Special Ability:
+  - Turning Coffee Into Code
+```
+
+---
+
+# 🌌 ABOUT ME
 
 ```yaml
 name: Krish Vaghasiya
@@ -32,226 +81,274 @@ role:
   - UI Designer
   - Creative Builder
 
-specialization:
-  - Web Design
-  - UI/UX
-  - Frontend Development
-
 currently_building:
   - WatchFam Streaming Platform
+  - AI Experiments
   - Open Source Projects
-  - Modern UI Systems
 
-learning:
-  - Advanced Frontend Architecture
-  - Performance Optimization
-  - Creative Design Systems
+goal:
+  - Build Beautiful Products
+  - Learn Daily
+  - Create Impact
 
-mindset:
-  - Learn
-  - Build
-  - Improve
-  - Repeat
+status:
+  - Online
+  - Coding
+  - Improving
 ```
 
 ---
 
-# 🌌 Digital Journey
+# ⚔ CURRENT QUESTS
 
-I love turning ideas into beautiful digital experiences.
+```text
+[✓] Learn React
 
-From designing modern interfaces to building complete web applications, my goal is simple:
+[✓] Learn Next.js
 
-> Build products that people genuinely enjoy using.
+[✓] Build Streaming Platform
 
-Currently focused on:
+[✓] Create Open Source Projects
 
-- 🎨 UI/UX Design
-- ⚛ React Ecosystem
-- 🚀 Next.js Applications
-- 💡 Creative Problem Solving
-- 🌍 Open Source
+[ ] Launch SaaS Product
+
+[ ] Build AI Assistant
+
+[ ] Conquer Full Stack Development
+
+[ ] Reach Legendary Developer Rank
+```
 
 ---
 
-# 🛠 Tech Arsenal
+# 🌳 SKILL TREE
+
+```text
+Frontend
+├── HTML
+├── CSS
+├── SCSS
+├── Tailwind
+├── JavaScript
+├── React
+└── Next.js
+
+Backend
+├── Node.js
+├── Firebase
+├── Supabase
+└── APIs
+
+Design
+├── Figma
+├── Photoshop
+├── UI/UX
+└── Creative Systems
+
+Tools
+├── Git
+├── GitHub
+├── VS Code
+└── Linux
+```
+
+---
+
+# ⚡ TECH ARSENAL
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,sass,js,ts,react,nextjs,tailwind,nodejs,express,mongodb,firebase,supabase,git,github,figma,vscode,photoshop" />
+<img src="https://skillicons.dev/icons?i=html,css,sass,tailwind,js,ts,react,nextjs,nodejs,express,mongodb,firebase,supabase,git,github,figma,vscode,photoshop" />
 </p>
 
 ---
 
-# ⚡ Currently Building
+# 🚀 FEATURED PROJECTS
 
-### 🎬 WatchFam
+## 🎬 WATCHFAM
 
-A streaming platform focused on:
+A modern streaming platform built for speed, simplicity and user experience.
 
-- Clean UI
-- Fast Performance
-- Modern Experience
+Features:
+
+- Fast UI
 - Responsive Design
+- Modern Components
+- Smooth Experience
 
 ---
 
-### 🤖 AI Experiments
+## 🔐 PASSKEY WALLET
 
-Building and exploring:
-
-- AI Chat Applications
-- Open Source AI Projects
-- Smart Web Experiences
+Authentication-focused project using modern technologies.
 
 ---
 
-### 🎨 UI Systems
+## 🤖 AI PROJECTS
 
-Creating:
-
-- Dashboard Interfaces
-- Reusable Components
-- Design Systems
-- Modern Web Experiences
+Building intelligent web experiences using modern AI technologies.
 
 ---
 
-# 🏆 GitHub Achievements
+## 🎨 UI EXPERIMENTS
+
+Creative frontend concepts and dashboard systems.
+
+---
+
+# 🏆 ACHIEVEMENTS
+
+```text
+🏆 Built Streaming Platform
+
+🏆 Built Multiple Frontend Projects
+
+🏆 UI Design Enthusiast
+
+🏆 Open Source Explorer
+
+🏆 Coffee Powered Developer
+
+🔒 Secret Achievement
+Still Loading...
+```
+
+---
+
+# 📊 GITHUB ANALYTICS
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=krishvaghasiya705&theme=tokyonight&column=4&margin-w=15&margin-h=15"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=krishvaghasiya705&show_icons=true&theme=radical&hide_border=true"/>
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=krishvaghasiya705&layout=compact&theme=radical&hide_border=true"/>
 </p>
 
 ---
 
-# 📈 GitHub Stats
+# 🔥 CONTRIBUTION STREAK
 
 <p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=krishvaghasiya705&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=krishvaghasiya705&layout=compact&theme=tokyonight&hide_border=true"/>
+<img src="https://streak-stats.demolab.com?user=krishvaghasiya705&theme=radical&hide_border=true"/>
 </p>
 
 ---
 
-# 🔥 Contribution Streak
+# 📈 ACTIVITY GRAPH
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=krishvaghasiya705&theme=tokyonight&hide_border=true"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=krishvaghasiya705&theme=react-dark&hide_border=true"/>
 </p>
 
 ---
 
-# 📊 Contribution Graph
+# 🧠 CODER STATUS
+
+```cpp
+class Krish {
+
+public:
+
+    string role =
+    "Frontend Developer";
+
+    string currentProject =
+    "WatchFam";
+
+    string status =
+    "Building Cool Stuff";
+
+    void dailyRoutine() {
+
+        learn();
+
+        code();
+
+        build();
+
+        improve();
+
+        repeat();
+    }
+};
+```
+
+---
+
+# 📋 PROFILE SUMMARY
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=krishvaghasiya705&theme=tokyo-night&hide_border=true"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=krishvaghasiya705&theme=github_dark"/>
 </p>
 
 ---
 
-# 📋 Profile Summary
+# 🐍 CONTRIBUTION SNAKE
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=krishvaghasiya705&theme=tokyonight"/>
+<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg"/>
 </p>
 
 ---
 
-# 🌍 Activity Overview
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=krishvaghasiya705&theme=tokyonight"/>
-
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=krishvaghasiya705&theme=tokyonight"/>
-</p>
-
----
-
-# 🐍 Contribution Snake
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg"/>
-</p>
-
----
-
-# 🚀 Featured Projects
-
-## 🎬 WatchFam
-
-Modern streaming experience focused on speed and design.
-
----
-
-## 🔐 Passkey Wallet
-
-Secure authentication and modern login experiences.
-
----
-
-## 🎨 UI Experiments
-
-Creative interface concepts and design explorations.
-
----
-
-## 🤖 AI Projects
-
-Building intelligent and useful web experiences.
-
----
-
-# 💭 Philosophy
-
-> "The best way to learn is to build."
-
-> "Every project teaches something new."
-
-> "Consistency beats motivation."
-
----
-
-# 🌐 Connect With Me
+# 🌐 CONNECT
 
 <p align="center">
 
 <a href="https://github.com/krishvaghasiya705">
-  <img src="https://skillicons.dev/icons?i=github"/>
+<img src="https://skillicons.dev/icons?i=github"/>
 </a>
 
 <a href="https://www.linkedin.com/in/krish-vaghasiya-b0a150366/">
-  <img src="https://skillicons.dev/icons?i=linkedin"/>
+<img src="https://skillicons.dev/icons?i=linkedin"/>
 </a>
 
 <a href="https://x.com/krish_vagh19933">
-  <img src="https://skillicons.dev/icons?i=twitter"/>
+<img src="https://skillicons.dev/icons?i=twitter"/>
 </a>
 
 <a href="https://youtube.com/@krish-tv-705">
-  <img src="https://skillicons.dev/icons?i=youtube"/>
+<img src="https://skillicons.dev/icons?i=youtube"/>
 </a>
 
 </p>
 
 ---
 
-# ⚡ Fun Fact
+# 💭 TERMINAL
 
-```javascript
-while (!success) {
-  learn();
-  build();
-  improve();
-}
+```bash
+$ whoami
+
+Krish Vaghasiya
+
+$ status
+
+Building The Future...
+
+$ mission
+
+Create Amazing Products
+
+$ exit
+
+Goodbye 👋
 ```
 
 ---
 
 <p align="center">
-  ⭐ Thanks for visiting my profile ⭐
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+> SYSTEM STATUS: ONLINE
+
+> CURRENTLY BUILDING THE FUTURE
+
+█████████████████████░░░░ 84%
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
 </p>
 
 <p align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:00C6FF,100:6A00FF"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:00F5FF,50:0066FF,100:6A00FF"/>
 </p>
