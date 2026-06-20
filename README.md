@@ -1,152 +1,257 @@
+<p align="center">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=300&color=0:00C6FF,100:6A00FF&text=KRISH%20VAGHASIYA&fontSize=60&fontAlignY=40&animation=fadeIn&fontColor=ffffff"/>
+</p>
+
 <h1 align="center">
-  Hi 👋, I'm Krish Vaghasiya
+  👋 Hey, I'm Krish Vaghasiya
 </h1>
 
 <h3 align="center">
-Frontend Developer • UI Designer • Creative Builder
+  Frontend Developer • UI Designer • Creative Builder
 </h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=24&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=Frontend+Developer;UI%2FUX+Enthusiast;Creative+Thinker;Learning+Embroidery+Design;Building+Beautiful+Experiences" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=28&pause=1000&color=00E7FF&center=true&vCenter=true&width=900&lines=Frontend+Developer;UI%2FUX+Designer;Creative+Builder;WatchFam+Creator;React+%26+Next.js+Developer;Always+Building+Something+Cool" />
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=krishvaghasiya705&label=PROFILE+VIEWS&color=0E75B6&style=for-the-badge"/>
+  <img src="https://img.shields.io/github/followers/krishvaghasiya705?style=for-the-badge"/>
+  <img src="https://img.shields.io/github/stars/krishvaghasiya705?style=for-the-badge"/>
 </p>
 
 ---
 
-## 🚀 About Me
+# 🚀 About Me
 
 ```yaml
-Name: Krish Vaghasiya
+name: Krish Vaghasiya
 
-Background:
+role:
+  - Frontend Developer
+  - UI Designer
+  - Creative Builder
+
+specialization:
   - Web Design
+  - UI/UX
   - Frontend Development
-  - UI/UX Design
 
-Current Focus:
-  - Learning Embroidery Design
-  - Creative Textile Design
-  - Improving Design Fundamentals
+currently_building:
+  - WatchFam Streaming Platform
+  - Open Source Projects
+  - Modern UI Systems
 
-Goal:
-  - Build products that look beautiful
-  - Create experiences that people enjoy
+learning:
+  - Advanced Frontend Architecture
+  - Performance Optimization
+  - Creative Design Systems
 
-Status:
-  - Learning
-  - Practicing
-  - Improving Daily
+mindset:
+  - Learn
+  - Build
+  - Improve
+  - Repeat
 ```
 
 ---
 
-## 🎯 Current Journey
+# 🌌 Digital Journey
 
-From crafting digital interfaces to designing embroidery patterns, I enjoy creating experiences that combine creativity and functionality.
+I love turning ideas into beautiful digital experiences.
 
-Currently exploring:
+From designing modern interfaces to building complete web applications, my goal is simple:
 
-- 🌱 Embroidery Design
-- 🎨 Design Theory
-- ⚡ Frontend Development
-- 🧠 Creative Workflows
-- 📚 Consistent Skill Building
+> Build products that people genuinely enjoy using.
 
----
+Currently focused on:
 
-## 🛠 Tech Stack
-
-### Frontend
-
-<p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,tailwind" />
-</p>
-
-### Tools & Design
-
-<p>
-  <img src="https://skillicons.dev/icons?i=figma,photoshop,vscode,git,github" />
-</p>
+- 🎨 UI/UX Design
+- ⚛ React Ecosystem
+- 🚀 Next.js Applications
+- 💡 Creative Problem Solving
+- 🌍 Open Source
 
 ---
 
-## 🔥 GitHub Stats
+# 🛠 Tech Arsenal
 
 <p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=krishvaghasiya705&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=krishvaghasiya705&layout=compact&theme=tokyonight&hide_border=true" />
+  <img src="https://skillicons.dev/icons?i=html,css,sass,js,ts,react,nextjs,tailwind,nodejs,express,mongodb,firebase,supabase,git,github,figma,vscode,photoshop" />
 </p>
 
 ---
 
-## ⚡ GitHub Streak
+# ⚡ Currently Building
+
+### 🎬 WatchFam
+
+A streaming platform focused on:
+
+- Clean UI
+- Fast Performance
+- Modern Experience
+- Responsive Design
+
+---
+
+### 🤖 AI Experiments
+
+Building and exploring:
+
+- AI Chat Applications
+- Open Source AI Projects
+- Smart Web Experiences
+
+---
+
+### 🎨 UI Systems
+
+Creating:
+
+- Dashboard Interfaces
+- Reusable Components
+- Design Systems
+- Modern Web Experiences
+
+---
+
+# 🏆 GitHub Achievements
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=krishvaghasiya705&theme=tokyonight&hide_border=true" />
+  <img src="https://github-profile-trophy.vercel.app/?username=krishvaghasiya705&theme=tokyonight&column=4&margin-w=15&margin-h=15"/>
 </p>
 
 ---
 
-## 📈 Contribution Graph
+# 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=krishvaghasiya705&theme=tokyo-night&hide_border=true" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=krishvaghasiya705&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=krishvaghasiya705&layout=compact&theme=tokyonight&hide_border=true"/>
 </p>
 
 ---
 
-## 🏆 GitHub Trophies
+# 🔥 Contribution Streak
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=krishvaghasiya705&theme=tokyonight&column=4&margin-w=15&margin-h=15" />
+  <img src="https://streak-stats.demolab.com?user=krishvaghasiya705&theme=tokyonight&hide_border=true"/>
 </p>
 
 ---
 
-## 🌟 Featured Projects
-
-### 🔐 Passkey Wallet
-Secure authentication wallet built using modern web technologies.
-
-### 🎨 UI Projects
-Clean and modern interfaces focused on user experience.
-
-### ⚡ Frontend Experiments
-Learning, building and improving through practical projects.
-
----
-
-## 📊 Profile Summary
+# 📊 Contribution Graph
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=krishvaghasiya705&theme=tokyonight" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=krishvaghasiya705&theme=tokyo-night&hide_border=true"/>
 </p>
 
 ---
 
-## 🐍 Contribution Snake
+# 📋 Profile Summary
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=krishvaghasiya705&theme=tokyonight"/>
 </p>
 
 ---
 
-## 💭 Philosophy
-
-> "Keep learning. Keep creating. Keep improving."
-
----
-
-## 🌐 Connect With Me
+# 🌍 Activity Overview
 
 <p align="center">
-  <a href="https://github.com/krishvaghasiya705">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=krishvaghasiya705&theme=tokyonight"/>
+
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=krishvaghasiya705&theme=tokyonight"/>
 </p>
+
+---
+
+# 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg"/>
+</p>
+
+---
+
+# 🚀 Featured Projects
+
+## 🎬 WatchFam
+
+Modern streaming experience focused on speed and design.
+
+---
+
+## 🔐 Passkey Wallet
+
+Secure authentication and modern login experiences.
+
+---
+
+## 🎨 UI Experiments
+
+Creative interface concepts and design explorations.
+
+---
+
+## 🤖 AI Projects
+
+Building intelligent and useful web experiences.
+
+---
+
+# 💭 Philosophy
+
+> "The best way to learn is to build."
+
+> "Every project teaches something new."
+
+> "Consistency beats motivation."
+
+---
+
+# 🌐 Connect With Me
+
+<p align="center">
+
+<a href="https://github.com/krishvaghasiya705">
+  <img src="https://skillicons.dev/icons?i=github"/>
+</a>
+
+<a href="https://www.linkedin.com/in/krish-vaghasiya-b0a150366/">
+  <img src="https://skillicons.dev/icons?i=linkedin"/>
+</a>
+
+<a href="https://x.com/krish_vagh19933">
+  <img src="https://skillicons.dev/icons?i=twitter"/>
+</a>
+
+<a href="https://youtube.com/@krish-tv-705">
+  <img src="https://skillicons.dev/icons?i=youtube"/>
+</a>
+
+</p>
+
+---
+
+# ⚡ Fun Fact
+
+```javascript
+while (!success) {
+  learn();
+  build();
+  improve();
+}
+```
 
 ---
 
 <p align="center">
   ⭐ Thanks for visiting my profile ⭐
+</p>
+
+<p align="center">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:00C6FF,100:6A00FF"/>
 </p>
