@@ -325,7 +325,11 @@ Mastering Frontend
 ## 📜 SHINOBI RECORD
 
 <p align="center">
-  <img width="100%" src="https://github-readme-stats.vercel.app/api?username=krishvaghasiya705&show_icons=true&theme=radical&hide_border=true"/>
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=krishvaghasiya705&show_icons=true&theme=tokyonight&hide_border=true&border_radius=10&rank_icon=github&cache_seconds=86400"
+    alt="GitHub Stats"
+    width="100%"
+  />
 </p>
 
 ---
@@ -341,7 +345,11 @@ Mastering Frontend
 ## 🧠 NINJUTSU DISTRIBUTION
 
 <p align="center">
-  <img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=krishvaghasiya705&layout=compact&theme=radical&hide_border=true"/>
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=krishvaghasiya705&layout=compact&theme=tokyonight&hide_border=true&border_radius=10&langs_count=8&cache_seconds=86400"
+    alt="Top Languages"
+    width="100%"
+  />
 </p>
 
 ---
@@ -365,7 +373,10 @@ Mastering Frontend
 ## 🏅 NINJA ACHIEVEMENTS
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=krishvaghasiya705&theme=onedark&column=4&margin-w=15&margin-h=15&no-frame=true"/>
+  <img
+    src="https://github-profile-trophy.vercel.app/?username=krishvaghasiya705&theme=tokyonight&no-frame=true&no-bg=true&column=4&margin-w=15&margin-h=15"
+    alt="GitHub Trophies"
+  />
 </p>
 
 ---
