@@ -60,7 +60,7 @@
 
 From the interface and interactions to the streaming architecture and overall experience, **WatchFam is a solo-built project created from scratch.**
 
-🌐 **Live:** [watchfam.stream.netlify.app](https://watchfam.netlify.app)
+🌐 **Live:** [watchfam-stream.netlify.app](https://watchfam-stream.netlify.app)
 
 > 🎬 **Built with obsession. Designed with purpose. Made by Krish.**
 
