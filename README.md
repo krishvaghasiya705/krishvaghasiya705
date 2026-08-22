@@ -39,6 +39,31 @@
 
 ---
 
+## 🎬 WATCHFAM — S-RANK PROJECT
+
+<p align="center">
+
+### 🍿 A Streaming Experience Built From Scratch
+
+**WatchFam** is a modern movie & TV streaming platform focused on a clean interface, smooth interactions, and a cinematic viewing experience.
+
+<br/>
+
+`🎨 UI/UX` • `⚡ React` • `🎞️ Streaming` • `✨ Interactive Experience`
+
+<br/>
+
+<a href="https://watchfam-stream.netlify.app">
+<img src="https://img.shields.io/badge/🍿_EXPLORE_WATCHFAM-Visit_Site-FF7A00?style=for-the-badge"/>
+</a>
+
+</p>
+
+> ⚡ **Mission:** Turn a streaming platform into an experience — not just another video player.
+
+---
+
+
 
 # ⚔️ SHINOBI CHAKRA ANALYSIS
 
