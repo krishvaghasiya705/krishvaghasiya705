@@ -41,25 +41,28 @@
 
 ## 🎬 WATCHFAM — S-RANK PROJECT
 
-<p align="center">
-
 ### 🍿 A Streaming Experience Built From Scratch
 
-**WatchFam** is a modern movie & TV streaming platform focused on a clean interface, smooth interactions, and a cinematic viewing experience.
-
-<br/>
+**WatchFam** is a modern movie & TV streaming platform built from the ground up with a strong focus on **cinematic UI, smooth interactions, intelligent streaming, and an immersive viewing experience.**
 
 `🎨 UI/UX` • `⚡ React` • `🎞️ Streaming` • `✨ Interactive Experience`
 
-<br/>
-
-<a href="https://watchfam-stream.netlify.app">
-<img src="https://img.shields.io/badge/🍿_EXPLORE_WATCHFAM-Visit_Site-FF7A00?style=for-the-badge"/>
-</a>
-
-</p>
-
 > ⚡ **Mission:** Turn a streaming platform into an experience — not just another video player.
+
+---
+
+### 👑 Creator
+
+**WatchFam is independently designed, developed, and maintained by [Krish Vaghasiya](https://github.com/krishvaghasiya705).**
+
+**Founder & Owner:** Krish Vaghasiya
+**Role:** Designer • Developer • Product Creator
+
+From the interface and interactions to the streaming architecture and overall experience, **WatchFam is a solo-built project created from scratch.**
+
+🌐 **Live:** [watchfam.isroot.in](https://watchfam.isroot.in)
+
+> 🎬 **Built with obsession. Designed with purpose. Made by Krish.**
 
 ---
 
