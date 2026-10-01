@@ -374,8 +374,9 @@ Mastering Frontend
 
 <p align="center">
   <img
-    src="https://github-profile-trophy.vercel.app/?username=krishvaghasiya705&theme=tokyonight&no-frame=true&no-bg=true&column=4&margin-w=15&margin-h=15"
-    alt="GitHub Trophies"
+    src="https://github-readme-activity-graph.vercel.app/graph?username=krishvaghasiya705&theme=react-dark&hide_border=true&area=true&custom_title=Krish%27s%20Shinobi%20Activity"
+    alt="Krish GitHub Activity Graph"
+    width="100%"
   />
 </p>
 
