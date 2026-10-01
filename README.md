@@ -374,11 +374,12 @@ Mastering Frontend
 
 <p align="center">
   <img
-    src="https://github-profile-trophy.vercel.app/?username=krishvaghasiya705&theme=tokyonight&no-frame=true&no-bg=true&column=4&margin-w=15&margin-h=15"
+    src="./assets/github-trophies.svg"
     alt="GitHub Trophies"
+    width="100%"
   />
 </p>
-
+`
 ---
 
 ## 🎯 SHINOBI PERFORMANCE
