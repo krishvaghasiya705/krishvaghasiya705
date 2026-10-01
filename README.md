@@ -12,7 +12,8 @@
   <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=28&pause=1000&color=FF7A00&center=true&vCenter=true&width=900&lines=Hidden+Leaf+Village+Developer;Frontend+Shinobi;Three.js+Explorer;AI+Builder;Discord+Bot+Developer;Streaming+Platform+Creator;Future+Hokage+Of+The+Web"/>
 </p>
 
-<p align="center">
+<p align="center">`
+  
   <img src="https://komarev.com/ghpvc/?username=krishvaghasiya705&label=Village+Visitors&color=FF7A00&style=for-the-badge"/>
   <img src="https://img.shields.io/github/followers/krishvaghasiya705?style=for-the-badge&color=F59E0B"/>
   <img src="https://img.shields.io/github/stars/krishvaghasiya705?style=for-the-badge&color=DC2626"/>
