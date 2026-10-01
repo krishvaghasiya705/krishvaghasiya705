@@ -1,4 +1,4 @@
-e<p align="center">
+<p align="center">
   <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=320&color=0:FF7A00,50:F59E0B,100:DC2626&text=KRISH%20VAGHASIYA&fontSize=60&fontAlignY=40&animation=twinkling&fontColor=ffffff"/>
 </p>
 
