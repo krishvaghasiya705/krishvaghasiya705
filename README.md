@@ -379,7 +379,7 @@ Mastering Frontend
     width="100%"
   />
 </p>
-`
+
 ---
 
 ## 🎯 SHINOBI PERFORMANCE
